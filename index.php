@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
@@ -6,7 +6,7 @@
 	<title>Admission Form</title>
 	<link rel="stylesheet" type="text/css" href="index.css">
 </head>
-<body>
+<body> -->
 	<form  method="POST" action="connect.php">
     <div class="Form">
 		<p>Name :</p><input name="Name" id="Name" type="text" placeholder="Name" >
@@ -28,6 +28,6 @@
             
     </div>
 </form>
-</body>
-</html>
+<!-- </body>
+</html> -->
 
